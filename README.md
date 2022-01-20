@@ -1,1 +1,3 @@
 # Powiększony Nagłówek
+
+~Przekreślenie~
