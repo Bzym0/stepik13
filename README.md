@@ -18,4 +18,15 @@
 
 *Kursywa*
 > cytat
+1. lista z kodem
+2. lista z kodem
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
+3. lista z kodem
+
+![miodozer!](https://preview.redd.it/4nlpfsom2nz61.jpg?auto=webp&s=a8b7d8bc8ffec22eb5198dc4936c82fd8d44697d)
 
